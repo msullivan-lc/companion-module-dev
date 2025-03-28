@@ -5,8 +5,8 @@
 	"description": "Allow connection and control of Synaccess Netbooter PDUs",
 	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/msullivan-lc/companion-module-dev/companion-module-synaccess-nebooter.git",
-	"bugs": "https://github.com/msullivan-lc/companion-module-dev/companion-module-synaccess-netbooter/issues",
+	"repository": "git+https://github.com/msullivan-lc/companion-module-dev.git",
+	"bugs": "https://github.com/msullivan-lc/companion-module-dev/issues",
 	"maintainers": [
 		{
 			"name": "Michael Sullivan",
