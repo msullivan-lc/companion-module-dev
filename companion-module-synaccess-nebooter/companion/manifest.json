@@ -1,0 +1,26 @@
+{
+	"id": "synaccess-netbooter",
+	"name": "synaccess-netbooter",
+	"shortname": "netbooter",
+	"description": "Allow connection and control of Synaccess Netbooter PDUs",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/msullivan-lc/companion-module-dev/companion-module-synaccess-nebooter.git",
+	"bugs": "https://github.com/msullivan-lc/companion-module-dev/companion-module-synaccess-netbooter/issues",
+	"maintainers": [
+		{
+			"name": "Michael Sullivan",
+			"email": "michael.sullivan@lifecentre.org"
+		}
+	],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../dist/synaccess-netbooter.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "Synaccess Netbooter",
+	"products": ["NP-0801DUG2"],
+	"keywords": []
+}
