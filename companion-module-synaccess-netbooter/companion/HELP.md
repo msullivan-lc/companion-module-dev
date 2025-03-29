@@ -20,6 +20,9 @@ I suspect other Netbooters will work, but if you only have 5 outlets on your Net
 Due to working full time at a church, having my own web development and hosting company, and being a father of two, my time is severely limited. I make no express commitment to supporting or expanding this software. Feel free to download and modify the code as required.
 
 ## Change Log
+V1.0.1 - March 28, 2025
+- Fix to config connection loop.
+
 v1.0.0 - March 28, 2025
 - Initial release
 
